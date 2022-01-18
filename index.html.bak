@@ -25,7 +25,7 @@
 	Original LESS Stylesheet
 	<link rel="stylesheet/less" type="text/css" href="css/style.less" />
 	================================================== -->
-	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.8.0/build/cssreset/cssreset-min.css">
+	<link rel="stylesheet" type="text/css" href="https://yui.yahooapis.com/3.8.0/build/cssreset/cssreset-min.css">
 	<link rel="stylesheet" type="text/css" href="css/typegrid.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 
@@ -36,10 +36,10 @@
 	<![endif]-->
 
 	<!--[if lt IE 9]>
-		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300' rel='stylesheet' type='text/css'>
 
 	<!-- Favicons
 	================================================== -->
@@ -794,7 +794,7 @@
 		Flexslider 2.1 has known issues of manualControls setting with jQuery 1.9~
 		Use jQuery 1.8 until Flexslider 2.2 stable version is released
 	-->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
 	<script src="js/jQuery.BlackAndWhite.min.js"></script>
 	<script src="js/modernizr.js"></script>
 	<script src="js/less-1.4.0.min.js"></script>
